@@ -1,4 +1,5 @@
 [![banner](./images/BannerImg.png)](https://bioe.dev)
+[![bannerTwo](./images/BannerPrism.png)](https://prismatic.zone)
 
 ## Hello! 👋
 
