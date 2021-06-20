@@ -3,11 +3,10 @@
 
 ## Hello! 👋
 
-- 💻 I'm a newbie wannabe fullstack developer focused frontend web developer
+- 💻 I'm a wannabe fullstack developer focused frontend web developer
 - 🌱 Currently learning Vue.js, TypeScript and design.
-- 🌐 View my portfolio: [bioe.dev](https://bioe.dev/) (coming soon)
+- 🌐 View my portfolio: ~~(coming soon)~~
 - 💪 Currently working on [PrismaticZONE](https://github.com/PrismaticZONE).
-- ⚡ Creating Prismatic Roleplay framework for [alt:V](https://altv.mp/) platform.
 
 ## skills and tools
 
